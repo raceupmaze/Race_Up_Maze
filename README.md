@@ -1,4 +1,5 @@
-# Race_Up_Maze
+# Race_Up_Maze / ALI DARVISHI
+
 This is an algorithm based on DFS for solving the given mazes
 DFS does not always give you the shortest path but if a path from Start to End exists, it will always find it
 below I'm explaining how my code works:
@@ -29,4 +30,4 @@ How to execute it?
 Its a python file, you can execute it anywhere you want, but I prefer uploading it on colab and then uploading mazes too 
 I will provide you with a notebook file too
 
-# ALI DARVISHI
+
