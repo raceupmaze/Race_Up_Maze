@@ -24,3 +24,7 @@ below I'm explaining how my code works:
 20. we will continue this loop until we reach the End location or we delete every elements in the path list and that means we did not find any path from Start to End.
 21. Then we will create another list named moves that will show us the directions, not the locations from start to end
 22. And then we wil decode the moves to human language and print them.
+
+How to execute it?
+Its a python file, you can execute it anywhere you want, but I prefer uploading it on colab and then uploading mazes too 
+I will provide you with a notebook file too
