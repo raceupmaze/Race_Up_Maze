@@ -1,7 +1,7 @@
 # Race_Up_Maze / ALI DARVISHI
 
-This is an algorithm based on DFS for solving the given mazes
-DFS does not always give you the shortest path but if a path from Start to End exists, it will always find it
+This is an algorithm based on DFS for solving the given mazes.
+DFS does not always give you the shortest path but if a path from Start to End exists, it will always find it. \n
 below I'm explaining how my code works:
 1. We upload a maze in a .txt format
 2. We convert it into a 2D and then 1D array
